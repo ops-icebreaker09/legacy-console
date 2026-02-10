@@ -1,0 +1,6 @@
+Cutover handoff - legacy ops console
+
+Recovery token (rotate after cutover):
+1e05165e1d18020a1d161534021b4444
+
+Sealed with the operator handle.
