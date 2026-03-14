@@ -1,4 +1,4 @@
 # legacy-console
 
-Ops console for internal tooling.
-Maintained by IT Security.
+This tool has been decommissioned.
+Contact IT Security with questions.
